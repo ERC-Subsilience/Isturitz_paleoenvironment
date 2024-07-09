@@ -1,2 +1,2 @@
 # Isturitz_paleoenvironment
-This dataset supplements the paper: Berlioz E., Fernández-García M., Soulier M.-C., Agudo-Perez L., Amorós G., Normand C., Marín-Arroyo A. B. Isturitz human resilience in a changing environment during the late MIS3 (submitted). In the link https://osf.io/ebhrp/ you can find the Supplementary Tables and Annexes 1 to 8. 
+This dataset supplements the paper: Berlioz E., Fernández-García M., Soulier M.-C., Agudo-Perez L., Amorós G., Normand C., Marín-Arroyo A. B. Isturitz human resilience in a changing environment during the late MIS3 (submitted). In the link https://osf.io/ebhrp/ you can find the Supplementary Tables S1 to S5 and Annexes 1 to 8. 
